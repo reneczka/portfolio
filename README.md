@@ -11,7 +11,7 @@ An AI-powered interview chatbot that generates job-specific technical questions,
 
 **Tech Stack**: Python, FastAPI, OpenAI API, Streamlit, PostgreSQL, Docker, Render, Git
 
-#### Screenshots
+#### AI Interview Chatbot Screenshots
 ![AI Interview Chatbot Main Interface](assets/screenshots/ai-chatbot-main.png)
 ![AI Interview Chatbot Response](assets/screenshots/ai-chatbot-response.png)
 
@@ -22,7 +22,7 @@ A web scraper designed to extract detailed job listings, including titles, compa
 
 **Tech Stack**: Python, Playwright, SQLAlchemy, PostgreSQL, Git
 
-#### Screenshots
+#### Job Board Scraper Screenshots
 ![Job Board Scraper DB](assets/screenshots/job-scraper-db.png)
 
 
@@ -33,7 +33,7 @@ A comprehensive analysis of global mental health trends using Kaggle-sourced dat
 
 **Tech Stack**: Python, Jupyter Notebook, Pandas, Matplotlib, Seaborn, Git
 
-#### Screenshots
+#### Mental Health Data Analysis Screenshots
 ![Mental Health Screenshot](assets/screenshots/mental-health-sc1.png)
 ![Mental Health Screenshot](assets/screenshots/mental-health-sc2.png)
 
@@ -46,7 +46,7 @@ An online note-taking and task management app with categories and shared notes f
 
 **Tech Stack**: Python, Django, PostgreSQL, HTML, CSS, Render, Git
 
-#### Screenshots
+#### Notepad App Screenshots
 ![Notepad App Login](assets/screenshots/notepad-login.png)
 ![Note Creation Interface](assets/screenshots/notepad-note.png)
 ![Notepad App TODO List](assets/screenshots/notepad-todo.png)
@@ -60,7 +60,7 @@ A Chrome extension that allows users to customize the Perplexity AI website by m
 
 **Tech Stack**: JavaScript, Chrome Extension API, HTML, CSS, Git
 
-#### Screenshots
+#### Perplexity Customizer Screenshots
 ![Extension Settings](assets/screenshots/perplexity-settings.png)
 
 
@@ -71,7 +71,7 @@ A macOS app for managing clipboard history, making it easier to organize and acc
 
 **Tech Stack**: Swift, SwiftUI, Core Data, Xcode
 
-#### Screenshots
+#### Clipboard Manager Screenshots
 ![Clipboard Manager Main Window](assets/screenshots/clipboard-sc.png)
 
 
