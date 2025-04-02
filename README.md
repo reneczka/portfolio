@@ -1,6 +1,6 @@
 # Portfolio
 
-Welcome to my GitHub portfolio! I'm a **Junior Python Developer** passionate about **web scraping, data visualization, and AI-driven applications**. Below, you'll find an overview of my projects showcasing my skills and expertise.
+Welcome to my GitHub portfolio! I'm a **Junior Python Developer** passionate about **web scraping, data visualization, and AI-driven applications**. Below, you'll find an overview of my projects showcasing my skills and learning journey.
 
 ## 📌 Featured Projects
 
