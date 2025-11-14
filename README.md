@@ -5,7 +5,10 @@ Welcome to my GitHub portfolio! I'm a **Junior Python Developer** passionate abo
 ## 📌 Featured Projects
 
 ### [Job Search Buddy](https://github.com/reneczka/job-search-buddy)
-An AI-powered job scraping application that automatically collects and organizes job listings from Polish job boards and company career sites. Built with OpenAI Agents SDK and Playwright MCP, this tool extracts structured data and syncs results to Airtable for easy management and tracking.
+AI‑agent‑led system that collects roles from configured sources, normalizes fields into a consistent
+schema (Company, Position, Salary, Location, etc.), removes duplicates via URL/content
+normalization, and writes clean records to Airtable using concurrent job‑board and career‑site
+stages with two‑phase execution and timing reports.
 
 **Tech Stack**: Python, OpenAI Agents SDK, Playwright MCP, Airtable API, AsyncIO, Rich, Git
 
